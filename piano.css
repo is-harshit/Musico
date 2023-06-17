@@ -1,0 +1,40 @@
+/* .key-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/04/66/14/67/360_F_466146732_3hFCw6ndT2w3PcOoWfKyNFvWPrHQpYRn.jpg");
+   
+}   
+
+
+.key{
+
+    padding:0 50px;
+    border: 2px solid white;
+    color: red;
+} */
+
+.key-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/04/66/14/67/360_F_466146732_3hFCw6ndT2w3PcOoWfKyNFvWPrHQpYRn.jpg");
+    /* height: 250px;
+    width: 250px; */
+}   
+
+
+.key{
+
+    padding:0 50px;
+    border: 2px solid white;
+    color: red;
+}
